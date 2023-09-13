@@ -14,7 +14,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 
 ## Demo
 
-You can try out the game [here](#) (insert the link to your hosted game here).
+You can try out the game https://gradyl123.github.io/TICTAKTOE/
 
 ## Features
 
